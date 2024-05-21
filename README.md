@@ -81,7 +81,7 @@ Prerequisites
  - Android Studio or Xcode for mobile development
 Installation
  - Clone the repository:
-   git clone https://github.com/your_username/food_for_you.git
+   git clone https://github.com/yaros2406/food_for_you.git
    cd food_for_you
  - Get the dependencies:
    flutter pub get
